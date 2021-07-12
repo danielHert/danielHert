@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielHert
 - 👀 I’m interested in web design, front-end and back-end
 - 🌱 I’m currently learning full-stack web design
-- 💞️ I’m looking to collaborate on pojects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me danihermosilla9@gmail.com, whatsapp +54 9 3624 300698
 
 <!---
